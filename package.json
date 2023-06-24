@@ -1,0 +1,18 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "goit-18",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url/goit-18/"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "nanoid": "^4.0.2",
+    "parcel-bundler": "^1.12.5",
+    "pnotify": "^5.2.0"
+  }
+}
