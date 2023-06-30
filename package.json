@@ -9,9 +9,16 @@
   },
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snastia/goit-18.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/snastia/goit-18/issues"
+  },
+  "homepage": "https://github.com/snastia/goit-18#readme",
   "dependencies": {
-    "chart.js": "^4.3.0",
-    "nanoid": "^4.0.2",
     "parcel-bundler": "^1.12.5",
     "pnotify": "^5.2.0"
   }
